@@ -105,7 +105,7 @@ Prepreg is an insulating material placed between two copper layers in a core.
 The foil is the outer layer of the PCB. It has one shiny side, and one dull side. 
 
 **Why are blind/buried vias more expensive?**<br/> 
-Bind via is a hole that connects the outer layer to one of the inner layers, but does not go through the entire board. A buried via is a hole that connects inner layers but does not connect to an outer layer. Buried/blind vias are more expensive because they require more steps to make. Only use blind/buried vias after having confirmed with a manufacturer that the via is necessary for your application. 
+A blind via is a hole that connects the outer layer to one of the inner layers, but does not go through the entire board. A buried via is a hole that connects inner layers but does not connect to an outer layer. Buried/blind vias are more expensive because they require more steps to make. Only use blind/buried vias after having confirmed with a manufacturer that the via is necessary for your application. 
 
 **Can planes come out to the edges of the board?**<br/>
 No, planes should be pulled back in from the edge of the board about ten thousandths of an inch to prevent the router from potentially shorting layers together. 
